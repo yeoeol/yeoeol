@@ -11,10 +11,10 @@
 
 <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;"> 🛠️ Tech Stacks </h2>
 <div>
-    <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=OpenJDK&logoColor=white">
+    <img src="https://img.shields.io/badge/java-FF6600?style=flat-square&logo=OpenJDK&logoColor=white">
     <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat-square&logo=Spring Security&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Boot-13C100?style=flat-square&logo=Spring Boot&logoColor=white">
+    <img src="https://img.shields.io/badge/Spring Security-006600?style=flat-square&logo=Spring Security&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 </div>
 <br>
